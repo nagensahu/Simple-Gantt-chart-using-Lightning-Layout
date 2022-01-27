@@ -6,11 +6,11 @@
     text-align: left;  
     font-size: 10px;  min-height: 15px;  
     background-color: #52a2f3;  
-    padding: 5px 15px;  color: #fff;  
+    padding: 5px 15px;  color: #ffffff;  
     overflow: hidden;  
     position: relative;  
     cursor: pointer;
-    border-radius: 25px;;
+    border-radius: 7px;;
 }
 
 .column{
